@@ -37,7 +37,7 @@ Crab OSINT Tool - это мощный инструмент для сбора о�
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/sharagin/crab-osint.git
+git clone https://github.com/sharagin/crab-osint-git
 cd crab-osint
 
 # Установка зависимостей
