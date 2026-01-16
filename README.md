@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dis0nan/crab-osint/main/screenshots/banner.png" alt="Crab OSINT Banner" width="600">
+  <img src="https://images.scalebranding.com/technology-crab-logo-a2eabe2a-f467-4fc3-ac0a-91c2a3cf2457.jpg" alt="Crab OSINT Banner" width="600">
 </p>
 
 ## 📋 О проекте
@@ -37,7 +37,7 @@ Crab OSINT Tool - это мощный инструмент для сбора о�
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/dis0nan/crab-osint.git
+git clone https://github.com/sharagin/crab-osint.git
 cd crab-osint
 
 # Установка зависимостей
